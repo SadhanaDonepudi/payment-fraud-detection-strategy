@@ -1,0 +1,12 @@
+# generated data (reproducible via src/generate_transactions.py -- do not commit)
+data/
+models/holdout_scores.npz
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
